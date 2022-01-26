@@ -7,6 +7,10 @@ C++の簡単なプロジェクトです。
 1. `./create_project.bat` を叩く
 2. `HelloWorld.sln` でプログラムをビルドする
 
+## License
+
+MIT License
+
 ## Copyright
 
 | ソフトウェア | ライセンス | コピーライト |
